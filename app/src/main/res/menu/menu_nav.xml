@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_stores"
+        android:title="List Stores"
+        android:checkable="true"
+        android:checked="true"
+        android:icon="@drawable/ic_store"/>
+
+    <item
+        android:id="@+id/menu_deal"
+        android:checkable="true"
+        android:title="List Deal"
+        android:icon="@drawable/ic_shopping"/>
+
+
+</menu>
